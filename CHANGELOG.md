@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/murigama/poc-semantic-release/compare/v1.0.1...v1.1.0) (2025-09-23)
+
+
+### Features
+
+* add teste 4 ([9ef1865](https://github.com/murigama/poc-semantic-release/commit/9ef18656cc8319be5e2bd139c9062c1b27562a33))
+
 ## [1.0.1](https://github.com/murigama/poc-semantic-release/compare/v1.0.0...v1.0.1) (2025-09-23)
 
 
