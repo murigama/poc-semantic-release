@@ -14,6 +14,7 @@ function main() {
   console.log('✨ Este pacote foi publicado usando semantic-release!');
   console.log('teste')
   console.log('teste2')
+  console.log('teste3')
 }
 
 // Executa a função principal se o arquivo for executado diretamente
