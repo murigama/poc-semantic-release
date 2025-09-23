@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/murigama/poc-semantic-release/compare/v1.1.0...v1.2.0) (2025-09-23)
+
+
+### Bug Fixes
+
+* correct spelling of 'semantic-release' in log message ([0a40664](https://github.com/murigama/poc-semantic-release/commit/0a40664032c51a7e2a62436b2c408c1a66972b93))
+
+
+### Features
+
+* add teste5 log for semantic release ([7acb6d3](https://github.com/murigama/poc-semantic-release/commit/7acb6d32b57bbc5c23b205ad712db8c45f422455))
+
 # [1.1.0](https://github.com/murigama/poc-semantic-release/compare/v1.0.1...v1.1.0) (2025-09-23)
 
 
