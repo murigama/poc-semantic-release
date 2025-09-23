@@ -17,7 +17,7 @@ function main() {
   console.log('teste3')
   console.log('teste4')
 
-  console.log('teste5 - semantic-released')
+  console.log('teste5 - semantic-release')
 }
 
 // Executa a função principal se o arquivo for executado diretamente
