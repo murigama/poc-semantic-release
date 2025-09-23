@@ -1,3 +1,11 @@
+## [1.0.1](https://github.com/murigama/poc-semantic-release/compare/v1.0.0...v1.0.1) (2025-09-23)
+
+
+### Bug Fixes
+
+* change toker for github ([8be8785](https://github.com/murigama/poc-semantic-release/commit/8be8785f2b76584fa632726f6d99b6b48e54df39))
+* remove gh token ([cd8f876](https://github.com/murigama/poc-semantic-release/commit/cd8f876a40b4ec58c9fdea873504422d281b04e9))
+
 # 1.0.0 (2025-09-23)
 
 
