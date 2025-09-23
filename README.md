@@ -142,4 +142,4 @@ npx semantic-release --dry-run
 
 ## 📄 Licença
 
-MIT
+MIT.
