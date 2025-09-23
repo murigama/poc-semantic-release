@@ -1,0 +1,35 @@
+{
+  "name": "poc-semantic-release",
+  "version": "1.0.0",
+  "description": "POC de exemplo usando semantic-release para publicação automática no npm",
+  "license": "MIT",
+  "author": "Murilo Gama",
+  "type": "commonjs",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "echo \"Teste executado com sucesso!\"",
+    "semantic-release": "semantic-release"
+  },
+  "devDependencies": {
+    "semantic-release": "^24.2.9",
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/npm": "^11.0.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/murigama/poc-semantic-release.git"
+  },
+  "keywords": [
+    "semantic-release",
+    "npm",
+    "automation",
+    "poc"
+  ]
+}
