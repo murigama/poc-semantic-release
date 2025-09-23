@@ -12,6 +12,7 @@ function main() {
   console.log('📦 Versão:', require('./package.json').version);
   console.log('📅 Data:', new Date().toISOString());
   console.log('✨ Este pacote foi publicado usando semantic-release!');
+  console.log('teste')
 }
 
 // Executa a função principal se o arquivo for executado diretamente
