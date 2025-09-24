@@ -1,5 +1,5 @@
 {
-  "name": "poc-semantic-release",
+  "name": "@superlogica/poc-semantic-release",
   "version": "1.0.0",
   "description": "POC de exemplo usando semantic-release para publicação automática no npm",
   "license": "MIT",
