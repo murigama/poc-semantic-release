@@ -1,3 +1,19 @@
+# [1.3.0](https://github.com/murigama/poc-semantic-release/compare/v1.2.0...v1.3.0) (2025-10-09)
+
+
+### Bug Fixes
+
+* add token variable ([a290ead](https://github.com/murigama/poc-semantic-release/commit/a290ead9e93a89fe26daf91c3e7486780135ccfa))
+* fix workflow ([4124f09](https://github.com/murigama/poc-semantic-release/commit/4124f09ef40f64b3aa42b97c5c91eff0f8857910))
+
+
+### Features
+
+* add publish workflow ([5afe1c2](https://github.com/murigama/poc-semantic-release/commit/5afe1c26527e418d1100d834d1dae1b866300236))
+* test publish to npm ([00f1b10](https://github.com/murigama/poc-semantic-release/commit/00f1b1068025281140b7534509f59a3af03d9feb))
+* teste 6 ([e04c571](https://github.com/murigama/poc-semantic-release/commit/e04c571ba0afe1c02c214ce276028e7c4127d599))
+* teste 7 ([1c02e97](https://github.com/murigama/poc-semantic-release/commit/1c02e97eb16edc0f0ea286d7c3b0b93218ad592e))
+
 # [1.2.0](https://github.com/murigama/poc-semantic-release/compare/v1.1.0...v1.2.0) (2025-09-23)
 
 
