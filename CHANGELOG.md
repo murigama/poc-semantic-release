@@ -1,3 +1,10 @@
+## [1.3.2](https://github.com/murigama/poc-semantic-release/compare/v1.3.1...v1.3.2) (2026-01-19)
+
+
+### Bug Fixes
+
+* version ([ea06ad7](https://github.com/murigama/poc-semantic-release/commit/ea06ad74160450a97b1036bffa82526a2a7d404f))
+
 ## [1.3.1](https://github.com/murigama/poc-semantic-release/compare/v1.3.0...v1.3.1) (2026-01-19)
 
 
