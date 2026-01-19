@@ -18,6 +18,7 @@ function main() {
   console.log('teste4')
   console.log('teste6')
   console.log('teste7')
+  console.log('teste8')
 
   console.log('teste5 - semantic-release')
 }
